@@ -1,5 +1,3 @@
-Avighna Suresh (as6469) and Claudia Cortell (ccc2223), Spring 2024 CSEE-4119: Computer Networks
-
 # Overview
 BlockchainVoting is a distributed voting application that relies on blockchain.
 
